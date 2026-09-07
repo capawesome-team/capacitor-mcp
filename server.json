@@ -1,0 +1,27 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "io.capawesome/capacitor-mcp",
+  "description": "Unofficial MCP server for the Capacitor documentation, plugin list and blog.",
+  "version": "0.0.1",
+  "websiteUrl": "https://capawesome.io/",
+  "repository": {
+    "url": "https://github.com/capawesome-team/capacitor-mcp",
+    "source": "github"
+  },
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://capacitor-mcp.capawesome.io/mcp"
+    }
+  ],
+  "packages": [
+    {
+      "registryType": "npm",
+      "identifier": "@capawesome/capacitor-mcp",
+      "version": "0.0.1",
+      "transport": {
+        "type": "stdio"
+      }
+    }
+  ]
+}

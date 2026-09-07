@@ -1,0 +1,40 @@
+@capawesome/capacitor-mcp
+Copyright (c) 2026 Robin Genz
+
+This package is a client for the Capacitor MCP server hosted at
+https://capacitor-mcp.capawesome.io/mcp. The package itself contains no
+documentation content; the content below is served by that server.
+
+--------------------------------------------------------------------------
+Capacitor documentation
+--------------------------------------------------------------------------
+Copyright (c) the Ionic team.
+Licensed under the Apache License, Version 2.0.
+Source: https://github.com/ionic-team/capacitor-docs
+
+The documentation is converted from MDX to Markdown for delivery over MCP
+and is otherwise served unmodified in substance. A copy of the Apache
+License, Version 2.0 is available at:
+
+    http://www.apache.org/licenses/LICENSE-2.0
+
+--------------------------------------------------------------------------
+Ionic blog
+--------------------------------------------------------------------------
+Copyright (c) the Ionic team.
+Excerpts from https://ionic.io/blog are served with a link to the original
+post.
+
+--------------------------------------------------------------------------
+awesome-capacitorjs
+--------------------------------------------------------------------------
+Copyright (c) Capawesome.
+Licensed under the MIT License.
+Source: https://github.com/capawesome-team/awesome-capacitorjs
+
+Used for the community plugin list.
+
+--------------------------------------------------------------------------
+
+Capacitor and Ionic are trademarks of their respective owners. This project
+is not affiliated with or endorsed by Ionic or OutSystems.
