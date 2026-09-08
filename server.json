@@ -3,7 +3,7 @@
   "name": "io.capawesome/capacitor-mcp",
   "description": "Unofficial MCP server for the Capacitor documentation, plugin list and blog.",
   "version": "0.0.1",
-  "websiteUrl": "https://capawesome.io/",
+  "websiteUrl": "https://capawesome.io/docs/ai/mcp/capacitor/",
   "repository": {
     "url": "https://github.com/capawesome-team/capacitor-mcp",
     "source": "github"

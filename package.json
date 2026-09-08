@@ -1,7 +1,7 @@
 {
   "name": "@capawesome/capacitor-mcp",
   "version": "0.0.1",
-  "description": "Unofficial MCP server for the Capacitor documentation.",
+  "description": "Unofficial MCP server for the Capacitor documentation, plugin list and blog.",
   "mcpName": "io.capawesome/capacitor-mcp",
   "type": "module",
   "scripts": {
@@ -32,7 +32,9 @@
     "ai",
     "capacitor",
     "capawesome",
+    "ionic",
     "mcp",
+    "mcp-server",
     "model-context-protocol"
   ],
   "author": "Robin Genz <mail@robingenz.dev>",
@@ -44,7 +46,7 @@
   "bugs": {
     "url": "https://github.com/capawesome-team/capacitor-mcp/issues"
   },
-  "homepage": "https://capawesome.io/",
+  "homepage": "https://capawesome.io/docs/ai/mcp/capacitor/",
   "funding": [
     {
       "type": "github",
