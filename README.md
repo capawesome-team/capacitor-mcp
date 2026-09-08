@@ -8,8 +8,6 @@ Maintained by [Capawesome](https://capawesome.io).
 
 The server is hosted and ready to use. No account, no token, no installation:
 
-https://capacitor-mcp.capawesome.io/mcp
-
 ```
 https://capacitor-mcp.capawesome.io/mcp
 ```
@@ -126,7 +124,7 @@ The endpoint is limited to **100 requests per minute per IP**. Requests over the
 
 ## Privacy
 
-Your IP address is processed for rate limiting only. Queries and tool arguments are not stored, not logged beyond Cloudflare's standard edge logs, and never used for training.
+Your IP address is processed for rate limiting only. Queries and tool arguments are not stored, not logged beyond Cloudflare's standard edge logs, and never used for training. See the [Privacy Policy](https://capawesome.io/legal/privacy-policy/) for details.
 
 ## Related
 
